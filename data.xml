@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <id>1</id>
+    <setup>What&#x27;s the best thing about a Boolean?</setup>
+    <punchline>Even if you&#x27;re wrong, you&#x27;re only off by a bit</punchline>
+  </row>
+  <row>
+    <id>2</id>
+    <setup>Why do programmers wear glasses?</setup>
+    <punchline>Because they need to C#</punchline>
+  </row>
+</root>
